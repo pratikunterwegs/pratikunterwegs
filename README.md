@@ -15,5 +15,3 @@ You can find our manuscript on a pre-processing pipeline for such data here [![D
 
 `atlastools` status [![R build status](https://github.com/pratikunterwegs/atlastools/workflows/R-CMD-check/badge.svg)](https://github.com/pratikunterwegs/atlastools/actions)
   [![codecov.io](https://codecov.io/github/pratikunterwegs/atlastools/coverage.svg?branch=master)](https://codecov.io/github/pratikunterwegs/atlastools/branch/master)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikunterwegs&layout=compact&hide=html,mathematica,tex,scss,makefile&langs_count=10&theme=dark)](https://github.com/pratikunterwegs/github-readme-stats)
