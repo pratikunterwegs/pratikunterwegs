@@ -11,12 +11,14 @@ I'm a field ecologist, now working with spatial data and simulation models.
 ### High-throughput Animal Tracking Data
 
 I built and still maintain the `R` package `atlastools`, for pre-processing high-throughput animal tracking data.
-You can find our manuscript on a pre-processing pipeline for such data here [![DOI:10.1101/2020.12.15.422876](https://img.shields.io/badge/bioRxiv-doi.org/10.1101/2020.12.15.422876-<COLOR>?style=flat-square)](https://www.biorxiv.org/content/10.1101/2020.12.15.422876v3)
-
-[![R build status](https://github.com/pratikunterwegs/atlastools/workflows/R-CMD-check/badge.svg)](https://github.com/pratikunterwegs/atlastools/actions)
-[![codecov.io](https://codecov.io/github/pratikunterwegs/atlastools/coverage.svg?branch=master)](https://codecov.io/github/pratikunterwegs/atlastools/branch/master)
+You can find our manuscript on a pre-processing pipeline for such data here [![DOI:10.1101/2020.12.15.422876](https://img.shields.io/badge/bioRxiv-doi.org/10.1101/2020.12.15.422876-blue?style=flat-square)](https://www.biorxiv.org/content/10.1101/2020.12.15.422876v3)
 
 ### Mechanistic Evolutionary Simulations
 
 In the [Modelling Adaptive Response Mechanisms group](marmgroup.eu) I work on evolutionary, individual-based models of animal movement.
-My work on the co-evolution of animal movement and competition strategies can be found here [kleptmove-ms](github.com/pratikunterwegs/kleptomove-ms)
+My work on the co-evolution of animal movement and competition strategies can be found here [![kleptomove ms](https://img.shields.io/badge/Github-Coevolution_Movement_Competition-blue?style=flat-square)](github.com/pratikunterwegs/eBirdOccupancy)
+
+
+### Massive Citizen Science Data
+
+I use eBird data from the Western Ghats in India to model the occupancy of birds in tropical mountains in relation to land cover and climate; you can find this work here [![eBird Occupancy Modelling](https://img.shields.io/badge/Github-eBird_Occupancy_Modelling-blue?style=flat-square)](github.com/pratikunterwegs/eBirdOccupancy)
