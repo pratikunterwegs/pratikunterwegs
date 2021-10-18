@@ -23,6 +23,6 @@ In the [Modelling Adaptive Response Mechanisms group](marmgroup.eu) I work on ev
 
 ### Massive Citizen Science Data
 
-[![eBird Occupancy Modelling](https://img.shields.io/badge/Github-eBird_Occupancy_Modelling-blue?style=flat-square)](github.com/pratikunterwegs/hillybirds)
+[![eBird Occupancy Modelling](https://img.shields.io/badge/Github-eBird_Occupancy_Modelling-blue?style=flat-square)](https://github.com/pratikunterwegs/hillybirds)
 
 I use eBird data from the Western Ghats in India to model the occupancy of birds in tropical mountains in relation to land cover and climate.
