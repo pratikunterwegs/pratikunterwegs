@@ -8,9 +8,9 @@ I'm a field ecologist, now working with spatial data and simulation models. Link
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/pratik-gupte-8660643b/)
 
 
-### High-throughput Animal Tracking Data
+### A Guide to High-throughput Animal Tracking Data
 
-[![DOI:10.1101/2020.12.15.422876](https://img.shields.io/badge/bioRxiv-doi.org/10.1101/2020.12.15.422876-blue?style=flat-square)](https://www.biorxiv.org/content/10.1101/2020.12.15.422876v3)
+[![https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.13610](https://img.shields.io/badge/Journal_of_Animal_Ecology-blue?style=flat-square)](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.13610)
 
 I wrote a guide to building pre-processing pipelines for high-throughput animal tracking data, and built and still maintain the `R` package `atlastools`.
 
