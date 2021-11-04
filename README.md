@@ -8,18 +8,23 @@ I'm a field ecologist, now working with spatial data and simulation models. Link
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/pratik-gupte-8660643b/)
 
 
-### A Guide to High-throughput Animal Tracking Data
+### A Guide and Tools for Cleaning High-throughput Animal Tracking Data
+<!-- badges: start -->
+  [![https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.13610](https://img.shields.io/badge/Journal_of_Animal_Ecology-blue?style=flat-square)](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.13610)
+  [![https://github.com/pratikunterwegs/atlastools](https://img.shields.io/badge/R_package_atlastools-cyan?style=flat-square)](https://github.com/pratikunterwegs/atlastools)
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4033154.svg)](https://doi.org/10.5281/zenodo.4033154)
+  [![R build status](https://github.com/pratikunterwegs/atlastools/workflows/R-CMD-check/badge.svg)](https://github.com/pratikunterwegs/atlastools/actions)
+  [![codecov.io](https://codecov.io/github/pratikunterwegs/atlastools/coverage.svg?branch=master)](https://codecov.io/github/pratikunterwegs/atlastools/branch/master)
+<!-- badges: end -->
 
-[![https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.13610](https://img.shields.io/badge/Journal_of_Animal_Ecology-blue?style=flat-square)](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.13610)
+I wrote a guide to building pre-processing pipelines for high-throughput animal tracking data, now published in the _Journal of Animal Ecology_, and built and still maintain the `R` package `atlastools`.
 
-I wrote a guide to building pre-processing pipelines for high-throughput animal tracking data, and built and still maintain the `R` package `atlastools`.
-
-### Mechanistic Evolutionary Simulations
-
-[![kleptomove ms](https://img.shields.io/badge/Github-Coevolution_Movement_Competition-blue?style=flat-square)](github.com/pratikunterwegs/eBirdOccupancy)
+### Mechanistic Individual Based Simulations
 
 In the [Modelling Adaptive Response Mechanisms group](marmgroup.eu) I work on evolutionary, individual-based models of animal movement, and especially the co-evolution of animal movement and competition strategies.
 
+[![kleptomove ms](https://img.shields.io/badge/Coevolution_Movement_Competition-blue?style=flat-square)](https://github.com/pratikunterwegs/kleptomove-ms)
+[![snevo](https://img.shields.io/badge/Coevolution_Movement_Disease-pink?style=flat-square)](https://github.com/pratikunterwegs/snevo)
 
 ### Massive Citizen Science Data
 
