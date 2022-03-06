@@ -24,7 +24,7 @@ I wrote a guide to building pre-processing pipelines for high-throughput animal 
 In the [Modelling Adaptive Response Mechanisms group](marmgroup.eu) I work on evolutionary, individual-based models of animal movement, and especially the co-evolution of animal movement and competition strategies.
 
 [![kleptomove ms](https://img.shields.io/badge/Coevolution_Movement_Competition-blue?style=flat-square)](https://github.com/pratikunterwegs/kleptomove-ms)
-[![snevo](https://img.shields.io/badge/Coevolution_Movement_Disease-pink?style=flat-square)](https://github.com/pratikunterwegs/snevo)
+[![pathomove](https://img.shields.io/badge/Evolution_Movement_Disease-pink?style=flat-square)](https://github.com/pratikunterwegs/pathomove)
 
 ### Massive Citizen Science Data
 
