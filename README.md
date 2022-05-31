@@ -12,9 +12,6 @@ I'm a field ecologist, now working with spatial data and simulation models. Link
 <!-- badges: start -->
   [![https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.13610](https://img.shields.io/badge/Journal_of_Animal_Ecology-blue?style=flat-square)](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.13610)
   [![https://github.com/pratikunterwegs/atlastools](https://img.shields.io/badge/R_package_atlastools-cyan?style=flat-square)](https://github.com/pratikunterwegs/atlastools)
-  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4033154.svg)](https://doi.org/10.5281/zenodo.4033154)
-  [![R build status](https://github.com/pratikunterwegs/atlastools/workflows/R-CMD-check/badge.svg)](https://github.com/pratikunterwegs/atlastools/actions)
-  [![codecov.io](https://codecov.io/github/pratikunterwegs/atlastools/coverage.svg?branch=master)](https://codecov.io/github/pratikunterwegs/atlastools/branch/master)
 <!-- badges: end -->
 
 I wrote a guide to building pre-processing pipelines for high-throughput animal tracking data, now published in the _Journal of Animal Ecology_, and built and still maintain the `R` package `atlastools`.
