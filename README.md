@@ -1,12 +1,15 @@
 ### Hello there! 👋
 
-I'm a field ecologist, now working with spatial data and simulation models. Links to my projects are below the titles.
+I'm a research software engineer based in London, building tools to prepare for the next pandemic.
 
-[![Orcid](https://img.shields.io/badge/Orcid-gray?style=flat-square&logo=ORCID)](https://orcid.org/0000-0001-5294-7819)
 [![Email](https://img.shields.io/badge/Email-pratikgupte16@gmail.com-blue?style=flat-square)](mailto:pratikgupte16@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-9cf?style=flat-square&logo=Twitter)](http://twitter.com/pratikunterwegs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/pratik-gupte-8660643b/)
+[![Orcid](https://img.shields.io/badge/Orcid-gray?style=flat-square&logo=ORCID)](https://orcid.org/0000-0001-5294-7819)
 
+💼 I work at the ![Centre for the Mathematical Modelling of Infectious Diseases](https://www.lshtm.ac.uk/newsevents/events/series/centre-mathematical-modelling-infectious-diseases), at the London School of Hygiene and Tropical Medicine, and in the ![Epiverse Initiative at Data.org](https://data.org/initiatives/epiverse/).
+
+Previously a field ecologist, I worked with spatial trajectory data and individual based simulation models for my PhD in ecology and evolution.
 
 ### A Guide and Tools for Cleaning High-throughput Animal Tracking Data
 <!-- badges: start -->
