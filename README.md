@@ -3,7 +3,6 @@
 I'm a research software engineer based in London, building tools to prepare for the next pandemic.
 
 [![Email](https://img.shields.io/badge/Email-pratikgupte16@gmail.com-blue?style=flat-square)](mailto:pratikgupte16@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-9cf?style=flat-square&logo=Twitter)](http://twitter.com/pratikunterwegs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/pratik-gupte-8660643b/)
 [![Orcid](https://img.shields.io/badge/Orcid-gray?style=flat-square&logo=ORCID)](https://orcid.org/0000-0001-5294-7819)
 
