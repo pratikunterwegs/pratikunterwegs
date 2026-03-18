@@ -14,3 +14,5 @@ My current and past projects are distributed across personal and organisation re
 | -- | -- | -- |
 | PhD | 2018 - 2022 | [@marmgroup](https://github.com/marmgroup)
 | Epiverse-TRACE | 2022 - 2024 | [@epiverse-trace](https://github.com/epiverse-trace)
+| Jameel Institute - Imperial College London | 2024 - present | [@jameel-institute](https://github.com/jameel-institute)
+| Vaccine Impact Modelling Consortium | 2024 - present | [@vimc](https://github.com/vimc)
